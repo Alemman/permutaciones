@@ -22,7 +22,7 @@ def printArray(array, n):
         
 def data_imput():
     while True:
-        print("ingresa la cantidad de objetos: ")
+        print("ingresa la cantidad de objetos----: ")
         n = input()
         try:
             n = int(n)
